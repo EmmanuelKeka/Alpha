@@ -38,7 +38,7 @@ public class ChangeScenes : MonoBehaviour
     }
     public void GoToSouceCode()
     {
-        Application.OpenURL("https://github.com/EmmanuelKeka/alpha.git");
+        Application.OpenURL("https://github.com/EmmanuelKeka/Alpha.git");
     }
 
 }
